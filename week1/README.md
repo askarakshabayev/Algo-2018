@@ -1,25 +1,3 @@
-Algo lecture 1 notes:
+## Reading: https://d1b10bmlvqabco.cloudfront.net/attach/jlj19ic96pv2jn/i30ei1gp25gpx/jlj1eju6ep42/lecture2.pdf
 
-* Big O notation
-
-* Show piazza, give link, show all themes
-
-* Stack (what is stack, and examples)
-
-* Brackets, basketball problem, polish notation
-
-* Feel good problem (Optional)
-
-* Queue (what is queue, examples)
-
-* get number a from b, задача про кузнечик
-
-* minimum path in graph
-
-* labyrinth, knight problem
-
-* linked list, double linked list
-
-* delete element from linked list example
-
-* notepad example
+# Problems: https://informatics.msk.ru/mod/statements/view.php?id=207#1
