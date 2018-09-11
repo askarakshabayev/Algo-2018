@@ -1,25 +1,9 @@
-Algo lecture 1 notes:
+# Algorithms and Data Structures, class materials
+### Kazakh-British Technical University 2018
 
-* Big O notation
+Lecturer: Askar Akshabayev (askar.akshabayev@gmail.com)
 
-* Show piazza, give link, show all themes
+Assistent: Nurlan Zhussupov (zh.nurlan96@gmail.com)
 
-* Stack (what is stack, and examples)
-
-* Brackets, basketball problem, polish notation
-
-* Feel good problem (Optional)
-
-* Queue (what is queue, examples)
-
-* get number a from b, задача про кузнечик
-
-* minimum path in graph
-
-* labyrinth, knight problem
-
-* linked list, double linked list
-
-* delete element from linked list example
-
-* notepad example
+* Week 1: Stack, Queue, Dequeue, List. Basic implementation.
+* Week 2: Stack, Queue, Dequeue, Double Linked List. Implementation using pointers and use in problem solving.
