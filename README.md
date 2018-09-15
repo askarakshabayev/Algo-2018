@@ -2,6 +2,8 @@ Algo lecture 1 notes:
 Big O notation
 Show piazza, give link, show all themes
 Stack (what is stack, and examples)
+
+Algo lecture 2 notes:
 Brackets, basketball problem, polish notation
 Feel good problem (Optional)
 5. Queue (what is queue, examples)
